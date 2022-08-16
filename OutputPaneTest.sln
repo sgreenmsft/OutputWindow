@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32601.540
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OutputPaneTest", "OutputPaneTest.csproj", "{FAE76188-CB0E-4D58-9EAE-AEA3078D91C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAE76188-CB0E-4D58-9EAE-AEA3078D91C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAE76188-CB0E-4D58-9EAE-AEA3078D91C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAE76188-CB0E-4D58-9EAE-AEA3078D91C9}.Debug|x86.ActiveCfg = Debug|x86
+		{FAE76188-CB0E-4D58-9EAE-AEA3078D91C9}.Debug|x86.Build.0 = Debug|x86
+		{FAE76188-CB0E-4D58-9EAE-AEA3078D91C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAE76188-CB0E-4D58-9EAE-AEA3078D91C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAE76188-CB0E-4D58-9EAE-AEA3078D91C9}.Release|x86.ActiveCfg = Release|x86
+		{FAE76188-CB0E-4D58-9EAE-AEA3078D91C9}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF96E0A2-1747-4D3A-AD44-F07A5255E251}
+	EndGlobalSection
+EndGlobal
